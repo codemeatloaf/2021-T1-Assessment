@@ -8,5 +8,3 @@ common = set(list1).intersection(list2)
 print(str(list1) + " Is list 1")
 print(str(list2) + " Is list 2")
 print(str(common) + " Is what they have in common")
-
-TEST IM TESTING RN 
