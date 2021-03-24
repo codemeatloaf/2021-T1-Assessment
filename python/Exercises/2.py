@@ -6,3 +6,4 @@ if (num1 % 2) == 0:
     print(str(num1) + " is an even number!")
 else: 
     print(str(num1) + " is not an even number!")
+
