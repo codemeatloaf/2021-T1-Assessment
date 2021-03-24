@@ -14,6 +14,6 @@ s = list2
 ans = isPalindrome(s)
 
 if ans:
-    print("Yes")
+    print(str(list2) + " Is a palindrome" )
 else:
-    print("No")
+    print(str(list2) + " Is not a palindrome")
