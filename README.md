@@ -5,6 +5,6 @@
 ## Exercises
 
 The websites used are:
-* Learning Python: [Practice Python](https://www.practicepython.org/)
+* Learning Python: [Practice Python](https://www.practicepython.org/), [GeeksforGeeks](https://www.geeksforgeeks.org/python-programming-language/)
 * Learning Markdown: [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 * Learning SQL and HTML: [W3Schools](https://www.w3schools.com/html/html_formatting.asp)
