@@ -1,2 +1,4 @@
-# Coding
-# This is where i store all my coding stuff
+## Coding
+
+ This is where i store all my coding stuff
+

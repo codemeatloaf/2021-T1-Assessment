@@ -1,3 +1,4 @@
+// this is a test for the SynthWave '84 theme for Visual Studio Code
 //summer lasts forever
 async function synthWave() {
     if (
