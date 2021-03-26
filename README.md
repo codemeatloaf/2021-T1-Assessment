@@ -5,4 +5,4 @@
 ## Exercises
 
 The websites used to are 
-Practice Python: (https://www.practicepython.org/)
+Practice Python: [Practice Python](https://www.practicepython.org/)
