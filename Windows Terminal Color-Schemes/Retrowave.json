@@ -1,5 +1,4 @@
         {
-            // Color Scheme: Retrowave
             "name": "retrowave",
             "background": "#070825",
             "foreground": "#46BDFF",
@@ -19,4 +18,4 @@
             "white": "#FFFFFF",
             "black": "#181A1F",
             "yellow": "#fcee54"
-        },
+        }
