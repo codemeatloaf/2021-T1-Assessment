@@ -2,10 +2,6 @@
     
  This is where i store all my coding exercises, mostly for school. 
 
-## Folders
-
-[]
-
 ## Sources
 
 The websites used for:
