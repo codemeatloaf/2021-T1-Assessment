@@ -1,6 +1,6 @@
 # Coding
     
- This is where i store all my coding exercises, mostly for school. 
+ This is where I store all my coding exercises, mostly for school. 
 
 ## Sources
 
