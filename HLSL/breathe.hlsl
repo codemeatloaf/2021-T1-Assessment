@@ -1,4 +1,5 @@
 // A simple animated shader that fades the terminal background back and forth between two colours
+// Written for Windows Terminal
 
 // The terminal graphics as a texture
 Texture2D shaderTexture;

@@ -1,4 +1,5 @@
 // The original retro pixel shader
+// Written for Windows Terminal
 Texture2D shaderTexture;
 SamplerState samplerState;
 

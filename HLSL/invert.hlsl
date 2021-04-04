@@ -1,4 +1,5 @@
 // A minimal pixel shader that inverts the colors
+// Written for Windows Terminal
 
 // The terminal graphics as a texture
 Texture2D shaderTexture;
